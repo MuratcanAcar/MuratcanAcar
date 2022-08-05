@@ -1,21 +1,6 @@
-### Hi there 👋
 
-<!--
-**MuratcanAcar/MuratcanAcar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <p align="center"> 
-<a href="#"><img width="600" height="400" src="https://w0.peakpx.com/wallpaper/5/512/HD-wallpaper-python-amoled-coding-dark-programming.jpg" height="175px"/></a>
+<a href="#"><img width="500" height="500" src="https://w0.peakpx.com/wallpaper/5/512/HD-wallpaper-python-amoled-coding-dark-programming.jpg" height="175px"/></a>
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Muratcan</h1>
@@ -24,19 +9,19 @@ Here are some ideas to get you started:
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Swift, Basic SwiftUI and UX / UI Design.**
+- 🌱 I’m currently learning **Python and Machine Learning.**
 
-- 💻 All my projects and works are available github: **[My Portfolio](https://github.com/Batuhanirmali)**
+- 💻 All my projects and works are available github: **[My Portfolio](https://github.com/MuratcanAcar)**
 
-- 📫 How to reach me **batuirmali@gmail.com**
+- 📫 How to reach me **muratcanacar7499@gmail.com**
 
-- ⚡ Fun fact **I play games and go for a ride very often**
+- ⚡ Fun fact **I love to take time for myself and play chess.**
 
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://www.swift.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/swift.png"/> </a>
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>
+    <a href="https://www.python.org/" target="_blank"> <img src="https://www.python.org/static/img/python-logo@2x.png"/> </a>
+    
 
 </p>
 
@@ -44,22 +29,22 @@ Here are some ideas to get you started:
 <br/>
 
 <p align="center">
-    <a href="https://github.com/Batuhanirmali/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Batuhan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Batuhanirmali&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/MuratcanAcar/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Muratcan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MuratcanAcar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/Batuhanirmali/github-readme-stats"><img alt="Batuhanirmali's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Batuhanirmali&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Batuhanirmali/github-readme-stats"><img alt="Batuhanirmali's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Batuhanirmali&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/MuratcanAcar/github-readme-stats"><img alt="MuratcanAcar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MuratcanAcar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/MuratcanAcar/github-readme-stats"><img alt="MuratcanAcar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuratcanAcar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
 <br/>
 <br/>
 
-<a href="https://github.com/Batuhanirmali/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Batuhanirmali&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/MuratcanAcar/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MuratcanAcar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -67,14 +52,13 @@ Here are some ideas to get you started:
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/talha-batuhan-irmal%C4%B1-7a1a92205/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/batuirmali"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/batuhanirmali"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/muratcan-acar-903a4121b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/muratcannacarr/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Batuhanirmali">
+    <img src="https://komarev.com/ghpvc/?username=MuratcanAcar">
 </a>
-<a href="https://github.com/Batuhanirmali?tab=followers"><img src="https://img.shields.io/github/followers/Batuhanirmali?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/MuratcanAcar?tab=followers"><img src="https://img.shields.io/github/followers/MuratcanAcar?label=Followers&style=social" alt="GitHub Badge"></a>
